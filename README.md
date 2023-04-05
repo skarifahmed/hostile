@@ -1,8 +1,8 @@
-![Examples](img/proposed1.png)
+![Examples](img/teaser.png)
 
 ### Publication
-DSSN: Dual Shallow Siamese Network for Fashion Image Retrieval, 
-By : Sk Maidul Islam, Subhankar Joardar, and Arif Ahmed Sekh
+Ensemble Classifier for Hindi Hostile Content Detection, 
+By : Angana Chakraborty, Subhankar Joardar, and Arif Ahmed Sekh
 In: Consideration
 
 [Link to The Paper](https:xxxx)
@@ -11,7 +11,7 @@ In: Consideration
 To be Added
 ### License
 
-Copyright © 2022 Sk. Arif Ahmed
+Copyright © 2023 Sk. Arif Ahmed
 
 The content of this repository is bound by the following licenses:
 
